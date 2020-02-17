@@ -1,0 +1,29 @@
+C:\Users\leonidas\Desktop\polimesa\Server\assignment1_kpaliani\obj\Debug\assignment1_kpaliani.Properties.Resources.resources
+C:\Users\leonidas\Desktop\polimesa\Server\assignment1_kpaliani\obj\Debug\assignment1.csproj.GenerateResource.Cache
+C:\Users\leonidas\Desktop\polimesa\Server\assignment1_kpaliani\obj\Debug\assignment1.csproj.CoreCompileInputs.cache
+C:\Users\leonidas\Desktop\polimesa\Server\assignment1_kpaliani\obj\Debug\assignment1_kpaliani.exe
+C:\Users\leonidas\Desktop\polimesa\Server\assignment1_kpaliani\obj\Debug\assignment1_kpaliani.pdb
+C:\Users\leonidas\Desktop\polimesa\Server\assignment1_kpaliani\bin\Debug\assignment1_kpaliani.exe.config
+C:\Users\leonidas\Desktop\polimesa\Server\assignment1_kpaliani\bin\Debug\assignment1_kpaliani.exe
+C:\Users\leonidas\Desktop\polimesa\Server\assignment1_kpaliani\bin\Debug\assignment1_kpaliani.pdb
+C:\Users\leonidas\Desktop\polimesa\Server\assignment1_kpaliani\obj\Debug\assignment1.Form1.resources
+C:\Users\leonidas\Desktop\polimesa\Server\assignment1\bin\Debug\assignment1.exe.config
+C:\Users\leonidas\Desktop\polimesa\Server\assignment1\bin\Debug\assignment1.exe
+C:\Users\leonidas\Desktop\polimesa\Server\assignment1\bin\Debug\assignment1.pdb
+C:\Users\leonidas\Desktop\polimesa\Server\assignment1\obj\Debug\assignment1.csprojResolveAssemblyReference.cache
+C:\Users\leonidas\Desktop\polimesa\Server\assignment1\obj\Debug\assignment1.Form1.resources
+C:\Users\leonidas\Desktop\polimesa\Server\assignment1\obj\Debug\assignment1.Properties.Resources.resources
+C:\Users\leonidas\Desktop\polimesa\Server\assignment1\obj\Debug\assignment1.csproj.GenerateResource.Cache
+C:\Users\leonidas\Desktop\polimesa\Server\assignment1\obj\Debug\assignment1.csproj.CoreCompileInputs.cache
+C:\Users\leonidas\Desktop\polimesa\Server\assignment1\obj\Debug\assignment1.exe
+C:\Users\leonidas\Desktop\polimesa\Server\assignment1\obj\Debug\assignment1.pdb
+C:\Users\leonidas\Desktop\Antoniadis Leonidas 144195\Server\assignment1\bin\Debug\assignment1.exe.config
+C:\Users\leonidas\Desktop\Antoniadis Leonidas 144195\Server\assignment1\bin\Debug\assignment1.exe
+C:\Users\leonidas\Desktop\Antoniadis Leonidas 144195\Server\assignment1\bin\Debug\assignment1.pdb
+C:\Users\leonidas\Desktop\Antoniadis Leonidas 144195\Server\assignment1\obj\Debug\assignment1.csprojResolveAssemblyReference.cache
+C:\Users\leonidas\Desktop\Antoniadis Leonidas 144195\Server\assignment1\obj\Debug\assignment1.Form1.resources
+C:\Users\leonidas\Desktop\Antoniadis Leonidas 144195\Server\assignment1\obj\Debug\assignment1.Properties.Resources.resources
+C:\Users\leonidas\Desktop\Antoniadis Leonidas 144195\Server\assignment1\obj\Debug\assignment1.csproj.GenerateResource.Cache
+C:\Users\leonidas\Desktop\Antoniadis Leonidas 144195\Server\assignment1\obj\Debug\assignment1.csproj.CoreCompileInputs.cache
+C:\Users\leonidas\Desktop\Antoniadis Leonidas 144195\Server\assignment1\obj\Debug\assignment1.exe
+C:\Users\leonidas\Desktop\Antoniadis Leonidas 144195\Server\assignment1\obj\Debug\assignment1.pdb

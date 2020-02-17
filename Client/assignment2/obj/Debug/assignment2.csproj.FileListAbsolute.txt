@@ -1,0 +1,20 @@
+C:\Users\leonidas\Desktop\polimesa\Client\assignment2\obj\Debug\assignment2.csprojResolveAssemblyReference.cache
+C:\Users\leonidas\Desktop\polimesa\Client\assignment2\obj\Debug\assignment2.View.resources
+C:\Users\leonidas\Desktop\polimesa\Client\assignment2\obj\Debug\assignment2.csproj.GenerateResource.Cache
+C:\Users\leonidas\Desktop\polimesa\Client\assignment2\obj\Debug\assignment2.csproj.CoreCompileInputs.cache
+C:\Users\leonidas\Desktop\polimesa\Client\assignment2\bin\Debug\assignment2.exe.config
+C:\Users\leonidas\Desktop\polimesa\Client\assignment2\bin\Debug\assignment2.exe
+C:\Users\leonidas\Desktop\polimesa\Client\assignment2\bin\Debug\assignment2.pdb
+C:\Users\leonidas\Desktop\polimesa\Client\assignment2\obj\Debug\assignment2.Properties.Resources.resources
+C:\Users\leonidas\Desktop\polimesa\Client\assignment2\obj\Debug\assignment2.exe
+C:\Users\leonidas\Desktop\polimesa\Client\assignment2\obj\Debug\assignment2.pdb
+C:\Users\leonidas\Desktop\Antoniadis Leonidas 144195\Client\assignment2\bin\Debug\assignment2.exe.config
+C:\Users\leonidas\Desktop\Antoniadis Leonidas 144195\Client\assignment2\bin\Debug\assignment2.exe
+C:\Users\leonidas\Desktop\Antoniadis Leonidas 144195\Client\assignment2\bin\Debug\assignment2.pdb
+C:\Users\leonidas\Desktop\Antoniadis Leonidas 144195\Client\assignment2\obj\Debug\assignment2.csprojResolveAssemblyReference.cache
+C:\Users\leonidas\Desktop\Antoniadis Leonidas 144195\Client\assignment2\obj\Debug\assignment2.View.resources
+C:\Users\leonidas\Desktop\Antoniadis Leonidas 144195\Client\assignment2\obj\Debug\assignment2.Properties.Resources.resources
+C:\Users\leonidas\Desktop\Antoniadis Leonidas 144195\Client\assignment2\obj\Debug\assignment2.csproj.GenerateResource.Cache
+C:\Users\leonidas\Desktop\Antoniadis Leonidas 144195\Client\assignment2\obj\Debug\assignment2.csproj.CoreCompileInputs.cache
+C:\Users\leonidas\Desktop\Antoniadis Leonidas 144195\Client\assignment2\obj\Debug\assignment2.exe
+C:\Users\leonidas\Desktop\Antoniadis Leonidas 144195\Client\assignment2\obj\Debug\assignment2.pdb
