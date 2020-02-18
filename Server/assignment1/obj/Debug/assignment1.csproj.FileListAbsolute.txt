@@ -27,3 +27,12 @@ C:\Users\leonidas\Desktop\Antoniadis Leonidas 144195\Server\assignment1\obj\Debu
 C:\Users\leonidas\Desktop\Antoniadis Leonidas 144195\Server\assignment1\obj\Debug\assignment1.csproj.CoreCompileInputs.cache
 C:\Users\leonidas\Desktop\Antoniadis Leonidas 144195\Server\assignment1\obj\Debug\assignment1.exe
 C:\Users\leonidas\Desktop\Antoniadis Leonidas 144195\Server\assignment1\obj\Debug\assignment1.pdb
+C:\Users\leonidas\Documents\GitHub\Streaming-Video-Over-Network\Server\assignment1\bin\Debug\assignment1.exe.config
+C:\Users\leonidas\Documents\GitHub\Streaming-Video-Over-Network\Server\assignment1\bin\Debug\assignment1.exe
+C:\Users\leonidas\Documents\GitHub\Streaming-Video-Over-Network\Server\assignment1\bin\Debug\assignment1.pdb
+C:\Users\leonidas\Documents\GitHub\Streaming-Video-Over-Network\Server\assignment1\obj\Debug\assignment1.csprojAssemblyReference.cache
+C:\Users\leonidas\Documents\GitHub\Streaming-Video-Over-Network\Server\assignment1\obj\Debug\assignment1.Form1.resources
+C:\Users\leonidas\Documents\GitHub\Streaming-Video-Over-Network\Server\assignment1\obj\Debug\assignment1.Properties.Resources.resources
+C:\Users\leonidas\Documents\GitHub\Streaming-Video-Over-Network\Server\assignment1\obj\Debug\assignment1.csproj.GenerateResource.cache
+C:\Users\leonidas\Documents\GitHub\Streaming-Video-Over-Network\Server\assignment1\obj\Debug\assignment1.exe
+C:\Users\leonidas\Documents\GitHub\Streaming-Video-Over-Network\Server\assignment1\obj\Debug\assignment1.pdb
